@@ -16,9 +16,6 @@ sys.setdefaultencoding('utf-8')
 f = open('have.swift', 'wr')
 wd = '''
 //
-//  xx5kjs.swift
-//  xx5k
-//
 //  Created by ZhangLiangZhi on 2017/1/7.
 //  Copyright © 2017年 xigk. All rights reserved.
 //
